@@ -2,37 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd13fb9-121f-42b5-a85b-f27f9bf5b273" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/girls.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/myemployees.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/student.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/工资等级.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/basic_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/condition_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/function.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/group_function.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/group_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/join_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sort_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sql192.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sql199.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sub_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/union_query.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test10.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test11.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test12.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test6.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test7.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test8.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test9.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-dml/02-dml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-dml/resources/demo/delete.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-dml/resources/demo/insert.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-dml/resources/demo/update.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-dml/resources/test/test1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-dql/01-dql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-dql/01-dql.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +168,7 @@
       <workItem from="1595904217017" duration="7645000" />
       <workItem from="1595983730010" duration="7173000" />
       <workItem from="1596024098958" duration="16744000" />
-      <workItem from="1596112519471" duration="16194000" />
+      <workItem from="1596112519471" duration="21244000" />
     </task>
     <servers />
   </component>
@@ -215,29 +191,33 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="432" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1596157000353" />
-    <state width="1019" height="225" key="GridCell.Tab.0.bottom" timestamp="1596178232944">
+    <state width="475" height="274" key="GridCell.Tab.0.bottom" timestamp="1596184827277">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596178232944" />
-    <state width="1019" height="225" key="GridCell.Tab.0.center" timestamp="1596178232942">
+    <state width="475" height="274" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596184827277" />
+    <state width="475" height="274" key="GridCell.Tab.0.center" timestamp="1596184827276">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="225" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596178232942" />
-    <state width="1019" height="225" key="GridCell.Tab.0.left" timestamp="1596178232941">
+    <state width="475" height="274" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596184827276" />
+    <state width="475" height="274" key="GridCell.Tab.0.left" timestamp="1596184827276">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="225" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596178232941" />
-    <state width="1019" height="225" key="GridCell.Tab.0.right" timestamp="1596178232943">
+    <state width="475" height="274" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596184827276" />
+    <state width="475" height="274" key="GridCell.Tab.0.right" timestamp="1596184827277">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="225" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596178232943" />
+    <state width="475" height="274" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596184827277" />
     <state x="80" y="23" key="SettingsEditor" timestamp="1596069587109">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="80" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596069587109" />
-    <state x="0" y="23" key="new project wizard" timestamp="1595903656230">
+    <state width="686" height="500" key="SwitcherDM" timestamp="1596185408979">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="23" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1595903656230" />
+    <state width="686" height="500" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1596185408979" />
+    <state x="0" y="23" width="1440" height="656" key="new project wizard" timestamp="1596179781893">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" width="1440" height="656" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1596179781893" />
   </component>
 </project>
