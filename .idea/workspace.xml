@@ -1,23 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fd13fb9-121f-42b5-a85b-f27f9bf5b273" name="Default Changelist" comment="" />
+    <list default="true" id="5fd13fb9-121f-42b5-a85b-f27f9bf5b273" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/girls.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/myemployees.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/student.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/data/工资等级.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/basic_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/condition_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/group_function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/group_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/join_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sort_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sql192.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sql199.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/sub_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/demo/union_query.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test10.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test11.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test12.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test7.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test8.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-dql/resources/test/test9.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-dql/01-dql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01-dql/01-dql.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="girls" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="girls" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="girls" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="girls: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="girls" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="girls: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="beauty: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="girls" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="girls: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="boys: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="girls" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myemployees: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fINHhpEmzDNvW8JNib0xHm3o6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql.8" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-183.4588.61" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01-dql/resources/data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,6 +119,17 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="gradle.experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-dql/resources/data" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -55,6 +155,29 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.24444444" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:girls" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:girls" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@506ee0a7" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,22 +188,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595901560698</updated>
-      <workItem from="1595901564022" duration="569000" />
+      <workItem from="1595901564022" duration="827000" />
+      <workItem from="1595904217017" duration="7645000" />
+      <workItem from="1595983730010" duration="7173000" />
+      <workItem from="1596024098958" duration="16744000" />
+      <workItem from="1596112519471" duration="16194000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="220" y="46" key="#Project_Structure" timestamp="1595901581046">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="220" y="46" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1595901581046" />
-    <state x="80" y="23" key="SettingsEditor" timestamp="1595903664246">
+    <state x="320" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596035253222">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="80" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1595903664246" />
+    <state x="320" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1596035253222" />
+    <state x="432" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596157000353">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1596157000353" />
+    <state width="1019" height="225" key="GridCell.Tab.0.bottom" timestamp="1596178232944">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1019" height="225" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596178232944" />
+    <state width="1019" height="225" key="GridCell.Tab.0.center" timestamp="1596178232942">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1019" height="225" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596178232942" />
+    <state width="1019" height="225" key="GridCell.Tab.0.left" timestamp="1596178232941">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1019" height="225" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596178232941" />
+    <state width="1019" height="225" key="GridCell.Tab.0.right" timestamp="1596178232943">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1019" height="225" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596178232943" />
+    <state x="80" y="23" key="SettingsEditor" timestamp="1596069587109">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="80" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596069587109" />
     <state x="0" y="23" key="new project wizard" timestamp="1595903656230">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
