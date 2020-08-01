@@ -27,3 +27,6 @@ VALUES ('张飞', 100),
        ('关羽', 300);
 
 TRUNCATE TABLE boys;
+
+SELECT * FROM beauty;
+DELETE FROM beauty LIMIT 1;
