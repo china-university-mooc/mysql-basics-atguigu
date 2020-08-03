@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd13fb9-121f-42b5-a85b-f27f9bf5b273" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/04-tcl/resources/test/test1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/05-view.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/resources/demo/demo1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/resources/demo/demo2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/resources/demo/demo3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/resources/test/test1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/resources/test/test2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-view/resources/test/test3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dcl/04-dcl.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dcl/resources/demo/demo1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/04-tcl/resources/demo/demo1.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dcl/resources/demo/demo2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/04-tcl/resources/demo/demo2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dcl/resources/demo/demo3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/04-tcl/resources/demo/demo3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,23 +30,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="girls" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="girls" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="girls" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="students: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="Git.Settings">
@@ -292,7 +282,22 @@
         <serviceView>
           <option name="contentProportion" value="0.24444444" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:girls" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:girls" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@200f03bf" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:girls" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5c7b0e24" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -314,7 +319,7 @@
       <workItem from="1595983730010" duration="7173000" />
       <workItem from="1596024098958" duration="16744000" />
       <workItem from="1596112519471" duration="47749000" />
-      <workItem from="1596450992948" duration="84000" />
+      <workItem from="1596450992948" duration="6739000" />
     </task>
     <servers />
   </component>
@@ -341,33 +346,33 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="194" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1596451069373" />
-    <state width="1019" height="279" key="GridCell.Tab.0.bottom" timestamp="1596428062757">
+    <state width="1019" height="256" key="GridCell.Tab.0.bottom" timestamp="1596462191462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="279" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596428062757" />
-    <state width="1019" height="279" key="GridCell.Tab.0.center" timestamp="1596428062755">
+    <state width="1019" height="256" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596462191462" />
+    <state width="1019" height="256" key="GridCell.Tab.0.center" timestamp="1596462191462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="279" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596428062755" />
-    <state width="1019" height="279" key="GridCell.Tab.0.left" timestamp="1596428062755">
+    <state width="1019" height="256" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596462191462" />
+    <state width="1019" height="256" key="GridCell.Tab.0.left" timestamp="1596462191461">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="279" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596428062755" />
-    <state width="1019" height="279" key="GridCell.Tab.0.right" timestamp="1596428062756">
+    <state width="1019" height="256" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596462191461" />
+    <state width="1019" height="256" key="GridCell.Tab.0.right" timestamp="1596462191462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1019" height="279" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596428062756" />
-    <state x="80" y="23" key="SettingsEditor" timestamp="1596451078296">
+    <state width="1019" height="256" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596462191462" />
+    <state x="80" y="23" key="SettingsEditor" timestamp="1596460592129">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="80" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596451078296" />
+    <state x="80" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596460592129" />
     <state width="686" height="500" key="SwitcherDM" timestamp="1596185408979">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="686" height="500" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1596185408979" />
-    <state x="0" y="91" width="1440" height="656" key="new project wizard" timestamp="1596416713851">
+    <state x="0" y="91" width="1440" height="656" key="new project wizard" timestamp="1596451118117">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="91" width="1440" height="656" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1596416713851" />
+    <state x="0" y="91" width="1440" height="656" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1596451118117" />
   </component>
 </project>
