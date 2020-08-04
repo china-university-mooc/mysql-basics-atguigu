@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-view/05-view.iml" filepath="$PROJECT_DIR$/05-view/05-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-variable/06-variable.iml" filepath="$PROJECT_DIR$/06-variable/06-variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-function/07-function.iml" filepath="$PROJECT_DIR$/07-function/07-function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-flow-control/08-flow-control.iml" filepath="$PROJECT_DIR$/08-flow-control/08-flow-control.iml" />
     </modules>
   </component>
 </project>
