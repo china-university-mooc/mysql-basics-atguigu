@@ -1,0 +1,11 @@
+# 删除
+DROP PROCEDURE myp0;
+DROP PROCEDURE myp1;
+DROP PROCEDURE myp2;
+
+# DROP PROCEDURE myp3, myp4;
+
+# 查看
+# DESC myp4;
+
+SHOW CREATE PROCEDURE myp3;

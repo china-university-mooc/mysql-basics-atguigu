@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/03-ddl/03-ddl.iml" filepath="$PROJECT_DIR$/03-ddl/03-ddl.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-tcl/04-tcl.iml" filepath="$PROJECT_DIR$/04-tcl/04-tcl.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-view/05-view.iml" filepath="$PROJECT_DIR$/05-view/05-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-variable/06-variable.iml" filepath="$PROJECT_DIR$/06-variable/06-variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-function/07-function.iml" filepath="$PROJECT_DIR$/07-function/07-function.iml" />
     </modules>
   </component>
 </project>
