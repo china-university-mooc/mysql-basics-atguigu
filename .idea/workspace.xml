@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd13fb9-121f-42b5-a85b-f27f9bf5b273" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08-flow-control/08-flow-control.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-flow-control/resources/demo/demo1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-flow-control/resources/demo/demo2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-flow-control/resources/test/test1.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-flow-control/resources/demo/demo3.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +36,13 @@
         <item name="localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
     <select />
@@ -304,7 +307,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@41fb8919" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@329d9d37" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -328,7 +331,8 @@
       <workItem from="1595983730010" duration="7173000" />
       <workItem from="1596024098958" duration="16744000" />
       <workItem from="1596112519471" duration="47749000" />
-      <workItem from="1596450992948" duration="28279000" />
+      <workItem from="1596450992948" duration="28614000" />
+      <workItem from="1596555965704" duration="287000" />
     </task>
     <servers />
   </component>
@@ -387,5 +391,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="91" width="1440" height="656" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1596545249744" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1596556334759">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1596556334759" />
   </component>
 </project>
